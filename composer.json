@@ -1,0 +1,49 @@
+{
+  "name": "emendo/blade-material-symbols",
+  "description": "A package to easily make use of Google Material Symbols Icons in your Laravel Blade views.",
+  "keywords": [
+    "laravel",
+    "blade",
+    "icons",
+    "google",
+    "material-symbols"
+  ],
+  "homepage": "https://github.com/blade-organization/blade-heroicons",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Emendo"
+    }
+  ],
+  "require": {
+    "php": "^8.4",
+    "blade-ui-kit/blade-icons": "^1.6",
+    "illuminate/support": "^12.0"
+  },
+  "require-dev": {
+    "orchestra/testbench": "^10.0",
+    "phpunit/phpunit": "^11.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "BladeUI\\BladeMaterialSymbols\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "BladeUI\\BladeGoogleMaterialSymbols\\BladeMaterialSymbolsServiceProvider"
+      ]
+    }
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
