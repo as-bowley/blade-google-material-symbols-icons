@@ -1,5 +1,5 @@
 {
-  "name": "emendo/blade-google-material-symbols",
+  "name": "kienso/blade-google-material-symbols",
   "description": "A package to easily make use of Google Material Symbols Icons in your Laravel Blade views.",
   "keywords": [
     "laravel",
@@ -12,7 +12,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Emendo"
+      "name": "Kienso",
+      "homepage": "https://www.kienso.fr/"
     }
   ],
   "require": {
@@ -26,7 +27,7 @@
   },
   "autoload": {
     "psr-4": {
-      "BladeUI\\BladeMaterialSymbols\\": "src"
+      "Kienso\\BladeMaterialSymbols\\": "src"
     }
   },
   "autoload-dev": {
@@ -37,7 +38,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "BladeUI\\BladeMaterialSymbols\\BladeMaterialSymbolsServiceProvider"
+        "Kienso\\BladeMaterialSymbols\\BladeMaterialSymbolsServiceProvider"
       ]
     }
   },

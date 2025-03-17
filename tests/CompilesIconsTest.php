@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Tests;
 
-use BladeUI\BladeMaterialSymbols\BladeMaterialSymbolsServiceProvider;
+use Kienso\BladeMaterialSymbols\BladeMaterialSymbolsServiceProvider;
 use BladeUI\Icons\BladeIconsServiceProvider;
 use Orchestra\Testbench\TestCase;
 

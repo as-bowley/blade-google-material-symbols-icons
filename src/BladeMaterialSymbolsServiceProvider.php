@@ -1,6 +1,6 @@
 <?php
 
-namespace BladeUI\BladeMaterialSymbols;
+namespace Kienso\BladeMaterialSymbols;
 
 use BladeUI\Icons\Factory;
 use Illuminate\Contracts\Container\Container;

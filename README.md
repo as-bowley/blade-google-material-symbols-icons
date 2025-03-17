@@ -12,7 +12,7 @@ For a full list of available icons see [the SVG directory](resources/svg) or pre
 ## Installation
 
 ```bash
-composer require emendo/blade-google-material-symbols
+composer require kienso/blade-google-material-symbols
 ```
 
 <!-- ## Updating
@@ -79,7 +79,7 @@ Check out the [CHANGELOG](CHANGELOG.md) in this repository for all the recent ch
 
 ## Maintainers
 
-Blade Google Material Symbols is developed and maintained by Emendo.
+Blade Google Material Symbols is developed and maintained by Kienso.
 
 ## License
 
