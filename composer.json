@@ -1,5 +1,5 @@
 {
-  "name": "emendo/blade-material-symbols",
+  "name": "emendo/blade-google-material-symbols",
   "description": "A package to easily make use of Google Material Symbols Icons in your Laravel Blade views.",
   "keywords": [
     "laravel",
