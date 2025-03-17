@@ -1,4 +1,6 @@
 <?php
+
+
 return [
     [
         'source' => __DIR__ . '/../resources/svg',

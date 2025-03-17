@@ -58,8 +58,10 @@ class UpdateIcons
             // Get svg element
             $svg = $dom->getElementsByTagName('svg')->item(0);
 
-            // Set fill attribute to currentColor
-            $svg->setAttribute('fill', 'currentColor');
+            // Supprimer les attributs width, height et fill
+            $svg->removeAttribute('width');
+            $svg->removeAttribute('height');
+            $svg->removeAttribute('fill');
 
             // Save icon svg without namespace
             $newSvgString = $dom->saveXML($svg, LIBXML_NOXMLDECL);

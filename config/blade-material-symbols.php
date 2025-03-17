@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'prefix' => 'material-symbols',
+    'prefix' => 'gmsi',
 
     /*
     |-----------------------------------------------------------------
@@ -50,8 +50,8 @@ return [
     */
 
     'attributes' => [
-        'width' => '24',
-        'height' => '24'
+        // 'width' => '24',
+        // 'height' => '24'
     ],
 
 ];
