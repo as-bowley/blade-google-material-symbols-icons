@@ -4,6 +4,6 @@ This changelog follows [the Keep a Changelog standard](https://keepachangelog.co
 
 ## [Unreleased](https://github.com/emendo-web/blade-google-material-symbols-icons/compare/1.0.0...main)
 
-## 1.0.0 (20??-??-??)
+## 1.0.0 (2025-03-17)
 
 Initial release.
