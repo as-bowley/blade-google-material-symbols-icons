@@ -79,8 +79,8 @@ Check out the [CHANGELOG](CHANGELOG.md) in this repository for all the recent ch
 
 ## Maintainers
 
-Emendo is developed and maintained by Blade Developer.
+Blade Google Material Symbols is developed and maintained by Emendo.
 
 ## License
 
-Emendo is open-sourced software licensed under [the MIT license](LICENSE.md).
+Blade Google Material Symbols is open-sourced software licensed under [the MIT license](LICENSE.md).
