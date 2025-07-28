@@ -1,5 +1,5 @@
 {
-  "name": "kienso/blade-google-material-symbols",
+  "name": "as-bowley/blade-google-material-symbols",
   "description": "A package to easily make use of Google Material Symbols Icons in your Laravel Blade views.",
   "keywords": [
     "laravel",
@@ -12,8 +12,7 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Kienso",
-      "homepage": "https://www.kienso.fr/"
+      "name": "Alex Bowley",
     }
   ],
   "require": {
